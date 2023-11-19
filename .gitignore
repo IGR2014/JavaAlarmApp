@@ -1,0 +1,11 @@
+**/.gradle/*
+**/build/*
+
+**/bin/*
+**/lib/*
+
+**/out/*
+
+**/javafx-sdk-*/*
+
+gradle-app.settings

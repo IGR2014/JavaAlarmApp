@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="JavaAlarm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AlarmClockApp_jar</output-path>
+    <root id="root">
+      <element id="archive" name="JavaAlarm.jar">
+        <element id="module-output" name="JavaAlarm" />
+      </element>
+      <element id="library" level="project" name="org.openjfx:javafx-base:17.0.6" />
+      <element id="library" level="project" name="org.xerial:sqlite-jdbc:3.43.2.2" />
+      <element id="library" level="project" name="org.openjfx:javafx-controls:17.0.6" />
+    </root>
+  </artifact>
+</component>
